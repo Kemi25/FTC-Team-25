@@ -16,3 +16,5 @@
 
 #define ENCPERINCH              120
 #define ENC_TICKS_PER_DEGREE    26
+
+#define FOOBAR 120
