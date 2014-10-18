@@ -14,7 +14,12 @@
  */
 // #define USING_SENSOR_MUX
 
+<<<<<<< HEAD
 #define ENCPERINCH              120
 #define ENC_TICKS_PER_DEGREE    26
+=======
+#define ENCPERINCH              36
+#define ENC_TICKS_PER_DEGREE    6.5
+>>>>>>> upstream/master
 
 #define FOOBAR 120
